@@ -5,26 +5,7 @@ I've been working with software development for a long time; I beleave in Projec
 I love to learn about how things work and simplify things with technology. 
 Now I am experimenting with Machine Learning and Deep Learning.
 
-# Skills
-## Programming Languages:
-* Python
-* Java
-* C#
-* Php
-* C++
 
-## Frameworks
-* TensorFlow
-* PyTorch
-* Scikit-learn
-* Keras
-
-## Database:
-* CosmosDB
-* MySql
-* PostgresQL
-* SQL Server
-* Oracle
 
 # Want to know more?
 
